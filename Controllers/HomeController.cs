@@ -6,7 +6,7 @@ using System.Web.Mvc;
 
 namespace WillowHomes.Controllers
 {
- // howdy
+ // howdy partner
     public class HomeController : Controller
     {
         public ActionResult Index()
